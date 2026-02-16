@@ -17,7 +17,7 @@ Currently documenting my journey from sales professional to developer:
 
 ## Current Projects
 
-- **[Portfolio Website](link)** - Personal brand hub built with HTML/CSS (my first project)
+- **[Portfolio Website]** - Personal brand hub built with HTML/CSS (my first project)
 - **Discovery Series** - Sales and communication insights for young professionals
 
 ---
