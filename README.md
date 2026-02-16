@@ -24,7 +24,7 @@ Currently documenting my journey from sales professional to developer:
 
 ## What I'm Learning
 
-- HTML/CSS/JavaScript fundamentals
+- HTML/CSS/JavaScript
 - Web design and UX principles
 - Building a personal brand ecosystem (LinkedIn → Website → GitHub)
 
@@ -34,7 +34,7 @@ Currently documenting my journey from sales professional to developer:
 
 - 🌐 [Website] Launching soon.
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashid-kasi-906b2b335/)
-- 📧 kasirashid82@gmail.com
+  
 
 ---
 
