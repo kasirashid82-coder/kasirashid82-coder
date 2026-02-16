@@ -1,16 +1,40 @@
 ## Hi there 👋
+# Rashid Kasi
 
-<!--
-**kasirashid82-coder/kasirashid82-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sales • Marketing • Code**
 
-Here are some ideas to get you started:
+I don't recycle ideas. I reveal what I've lived.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Building
+
+Currently documenting my journey from sales professional to developer:
+- 🎯 **500+ deals closed** in 2 years (cold calling, d2d, marketing strategy)
+- 💻 **Learning web development** by building my personal portfolio from scratch
+- 📝 **Sharing lessons** on sales, communication, and coding
+
+---
+
+## Current Projects
+
+- **[Portfolio Website]** - Personal brand hub built with HTML/CSS (my first project)
+- **Discovery Series** - Sales and communication insights for young professionals
+
+---
+
+## What I'm Learning
+
+- HTML/CSS/JavaScript fundamentals
+- Web design and UX principles
+- Building a personal brand ecosystem (LinkedIn → Website → GitHub)
+
+---
+
+## Connect
+
+- [💼 [LinkedIn](your-linkedin)](https://www.linkedin.com/in/rashid-kasi-906b2b335/)
+
+---
+
+*Currently based in Espoo, Finland. Always learning, always building.*
