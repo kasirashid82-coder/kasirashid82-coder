@@ -1,4 +1,3 @@
-## Hi there 👋
 # Rashid Kasi
 
 **Sales • Marketing • Code**
@@ -18,7 +17,7 @@ Currently documenting my journey from sales professional to developer:
 
 ## Current Projects
 
-- **[Portfolio Website]** - Personal brand hub built with HTML/CSS (my first project)
+- **[Portfolio Website](link)** - Personal brand hub built with HTML/CSS (my first project)
 - **Discovery Series** - Sales and communication insights for young professionals
 
 ---
@@ -33,7 +32,9 @@ Currently documenting my journey from sales professional to developer:
 
 ## Connect
 
-- [💼 [LinkedIn](your-linkedin)](https://www.linkedin.com/in/rashid-kasi-906b2b335/)
+- 🌐 [Website] Launching soon.
+- 💼 [LinkedIn](https://www.linkedin.com/in/rashid-kasi-906b2b335/)
+- 📧 kasirashid82@gmail.com
 
 ---
 
