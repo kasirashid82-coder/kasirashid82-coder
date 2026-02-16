@@ -15,6 +15,7 @@ I don't recycle ideas. I reveal what I've lived.
 ---
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/rashid-kasi-906b2b335/) 
+** Portfolio** [Website](https://rashidkasi.com/)
 
 *Portfolio launching soon 
 • Based in Espoo 🇫🇮*
