@@ -6,36 +6,14 @@ I don't recycle ideas. I reveal what I've lived.
 
 ---
 
-## What I'm Building
+500+ deals closed in 2 years. Now learning to code and documenting lessons most people charge for.
 
-Currently documenting my journey from sales professional to developer:
-- 🎯 **500+ deals closed** in 2 years (cold calling, d2d, marketing strategy)
-- 💻 **Learning web development** by building my personal portfolio from scratch
-- 📝 **Sharing lessons** on sales, communication, and coding
-
----
-
-## Current Projects
-
-- **[Portfolio Website]** - Personal brand hub built with HTML/CSS (my first project)
-- **Discovery Series** - Sales and communication insights for young professionals
+**Currently building:**
+- Personal portfolio (HTML/CSS)
+- Discovery series on sales & communication
 
 ---
 
-## What I'm Learning
+**Connect:** [LinkedIn](https://linkedin...) • [Email](mailto:...)
 
-- HTML/CSS/JavaScript
-- Web design and UX principles
-- Building a personal brand ecosystem (LinkedIn → Website → GitHub)
-
----
-
-## Connect
-
-- 🌐 [Website] Launching soon.
-- 💼 [LinkedIn](https://www.linkedin.com/in/rashid-kasi-906b2b335/)
-  
-
----
-
-*Currently based in Espoo, Finland. Always learning, always building.*
+*Portfolio launching soon • Based in Espoo 🇫🇮*. Always learning, always building.
