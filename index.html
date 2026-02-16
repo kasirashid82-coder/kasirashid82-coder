@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Rashid Kasi | Sales Professional Learning to Code</title>
+        <meta name="description" content="Sales professional documenting lessons from 500+ deals. Real insights, no recycled theory.">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+ 
+        <nav>
+            <button><a href="index.html">Home</a></button>
+            <button><a href="discovery.html">Discovery</a></button>
+            <button><a href="experience.html">Experience</a></button>
+        </nav>
+         
+
+
+        <header>
+        
+            <h1>Rashid Kasi</h1>
+            <h2>Sales • Marketing • Code</h2>
+            <p class="intro"><em>I don't recycle ideas. I reveal the ones I lived.</em></p>
+
+             <section class="description">
+            <p>I've closed 500+ deals in 2 years. 
+            Worked in cold calling, d2d, marketing strategy. 
+            Now I'm documenting the lessons most people charge for</p>
+        </section>
+       
+
+             <div class="scroll-indicator">
+                <span>↓</span>
+                <p>Scroll to Explore</p>
+             </div>
+        </header>
+               <div class="loader-wrapper">
+    <div class="loader-container">
+        <div class="loader-bar"></div>
+    </div>
+    <p class="loader-text">Loading...</p>
+</div>
+
+             
+         <section class="cta">
+            <button><a href="discovery.html">→ Read my insights</a></button>
+        </section>
+
+
+         
+       
+
+        <footer>
+            <a href ="https://github.com/kasirashid82-coder">GitHub</a>
+            <a href ="https://www.linkedin.com/in/rashid-kasi-906b2b335">LinkedIn</a>
+        </footer>
+      <script>
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        const loader = document.querySelector('.loader-wrapper');
+        loader.classList.add('fade-out');
+        setTimeout(function() {
+            loader.remove();  // Actually delete it from the page
+        }, 500);  // Wait for fade animation to finish
+    }, 2000);
+});
+</script>
+    </body>
+</html>

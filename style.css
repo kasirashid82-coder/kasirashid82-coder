@@ -1,0 +1,310 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.6;
+}
+
+
+
+
+
+h2 {
+    font-size: 1.5rem;
+    color: #ccc;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+/* Header */
+header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    position: relative;
+}
+
+/* Navigation */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 20px 50px;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+nav button {
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #8501ba;
+}
+/* Intro paragraph */
+header .intro {
+    max-width: 700px;
+    font-size: 1.1rem;
+    color: #ddd;
+    line-height: 1.8;
+    text-align: center;
+}
+
+
+/* Scroll Indicator */
+.scroll-indicator {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    animation: bounce 2s infinite;
+}
+
+.scroll-indicator span {
+    font-size: 2rem;
+    color: #8501ba;
+    display: block;
+}
+
+.scroll-indicator p {
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-top: 5px;
+}
+
+/* Bounce Animation */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateX(-50%) translateY(0);
+    }
+    50% {
+        transform: translateX(-50%) translateY(-20px);
+    }
+}
+
+/* Stats Section */
+.stats {
+    padding: 40px;
+    text-align: center;
+}
+
+/* CTA Section */
+.cta {
+    padding: 40px;
+    text-align: center;
+}
+
+.cta button {
+    background-color: #8501ba;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.cta button:hover {
+    background-color: #a020f0;
+}
+
+.cta a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    padding: 40px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+footer a {
+    color: #8501ba;
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #a020f0;
+}
+/*Discovery Page*/
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 100px 40px 60px 40px;
+
+
+}
+.description {
+    text-align: center;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 40px;
+    color: #ddd;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+.description p {
+    color: #ddd;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+/* Loading Screen */
+.loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.loader-container {
+    width: 300px;
+    height: 6px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.loader-bar {
+    height: 100%;
+    width: 0%;
+    background-color: #8501ba;
+    animation: load 1s ease forwards;
+}
+
+.loader-text {
+    color: #8501ba;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+@keyframes load {
+    0% { width: 0%; }
+    100% { width: 100%; }
+}
+
+.loader-wrapper.fade-out {
+    animation: fadeOut 0.5s ease forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+/* Page Fade In Animation */
+body {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.experience{
+    text-align: center;
+}
+
+.email-signup {
+    text-align: center;
+    padding: 40px;
+    margin: 40px 0;
+}
+
+.email-signup h3 {
+    color: #8501ba;
+    margin-bottom: 10px;
+}
+
+.email-signup p {
+    color: #ddd;
+    margin-bottom: 20px;
+}
+
+.email-signup input {
+    padding: 12px 20px;
+    width: 300px;
+    border: 1px solid #8501ba;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.email-signup button {
+    padding: 12px 30px;
+    background-color: #8501ba;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.email-signup button:hover {
+    background-color: #a020f0;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 4rem;
+    color: #8501ba;
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-shadow: 0 0 20px rgba(133, 1, 186, 0.8),
+                 0 0 40px rgba(133, 1, 186, 0.5);
+    animation: nameGlow 3s ease-in-out infinite;
+}
+
+@keyframes nameGlow {
+    0%, 100% { 
+        text-shadow: 0 0 20px rgba(133, 1, 186, 0.8),
+                     0 0 40px rgba(133, 1, 186, 0.5);
+    }
+    50% { 
+        text-shadow: 0 0 30px rgba(133, 1, 186, 1),
+                     0 0 60px rgba(133, 1, 186, 0.8);
+    }
+}
