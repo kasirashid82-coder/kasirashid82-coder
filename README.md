@@ -11,6 +11,7 @@ I don't recycle ideas. I reveal what I've lived.
 **Currently building:**
 - Personal portfolio (HTML/CSS)
 - Discovery series on sales & communication
+- LinkedIn Content Tracker
 
 ---
 
